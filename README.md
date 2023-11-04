@@ -1,2 +1,2 @@
-# secrets
-An application which lets you share your secrets anoymously. Built on nodejs
+# Secrets
+An application which lets you share your secrets anoymously. 
